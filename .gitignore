@@ -1,0 +1,12 @@
+processed_files
+processed_files/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.__pycache__
+.pytest_cache
+.pytest_cache__
+*.pytest_cache/
+.env
+*.env
