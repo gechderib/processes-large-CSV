@@ -35,6 +35,11 @@ The API will be available at `http://localhost:8000`
 - `GET /api/v1/sales/download/{file_id}` - Download a processed file
 
 
+## Using Docker
+1. Clone the repository
+2. docker compose up --build app app
+The API will be available at `http://localhost:8000`
+
 
 ## Testing
 
